@@ -1,0 +1,22 @@
+#Blocks
+tile.creativethinking:FireOpalOre.name=Fire Opal Ore
+tile.creativethinking:BlueOpalOre.name=Blue Opal Ore
+tile.creativethinking:PurpleOpalOre.name=Purple Opal Ore
+tile.creativethinking:WolfamiteOre.name=Wolfamite Ore
+tile.creativethinking:JadeOre.name=Jade Ore
+tile.creativethinking:AquamarineOre.name=Aquamarine Ore
+tile.creativethinking:GarnetOre.name=Garnet Ore
+tile.creativethinking:TourmalineOre.name=Tourmaline Ore
+tile.creativethinking:CitrineOre.name=Cirtine Ore
+tile.creativethinking:TigerIron.name=Tiger Iron
+
+#Item
+item.creativethinking:CTLOGO.name=CT LOGO
+item.creativethinking:WolfamiteIngot.name=Wolfamite Ingot
+
+
+#Tools
+item.Wolfamitepickaxe.name=Wolfamite Pickaxe
+
+#Creative Tabs
+itemGroup.creativethinking=Creative Thinking

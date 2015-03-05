@@ -1,0 +1,16 @@
+[
+{
+  "modid": "CreativeThinking",
+  "name": "Creative Thinking",
+  "description": "Thinking Creatively",
+  "version": "${1.0 Beta}",
+  "mcversion": "${1.7.10}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TodWoods"],
+  "credits": "To the testers TheBermudaSoda",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
